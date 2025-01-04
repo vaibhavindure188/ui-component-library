@@ -1,75 +1,58 @@
+# [EasyUI](https://development.d34cbh1venr26m.amplifyapp.com/) Component Library
 
-# [Light Ui](https://uilight.netlify.app/) Component Library
-
-[Light Ui](https://uilight.netlify.app/) is a component library that has clean building blocks that help you develop faster and efficient UI.
+[ EasyUI ](https://development.d34cbh1venr26m.amplifyapp.com/) is a component library that has clean building blocks that help you develop faster and efficient UI.
 
 ## Usage
 
 To use the components you can either import the style sheet in your css file or paste the link in your html file
 
-
-
-
-
 ```css
-@import("https://uilight.netlify.app/main.css")
+@import ("https://development.d34cbh1venr26m.amplifyapp.com/main.css");
 ```
 
 ```html
-<link rel="stylesheet" href="https://uilight.netlify.app/main.css">
+<link
+  rel="stylesheet"
+  href="https://development.d34cbh1venr26m.amplifyapp.com/main.css"
+/>
 ```
-
-
 
 ## List of Components
 
-[1. Alert](https://uilight.netlify.app/documentation/docs#Alert)
+[1. Alert](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Alert)
 
-[2. Avatar](https://uilight.netlify.app/documentation/docs#Avatar)
+[2. Avatar](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Avatar)
 
-[3. Badge](https://uilight.netlify.app/documentation/docs#Badge)
+[3. Badge](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Badge)
 
-[4. Button](https://uilight.netlify.app/documentation/docs#Button)
+[4. Button](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Button)
 
-[5. Card](https://uilight.netlify.app/documentation/docs#Card)
+[5. Card](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Card)
 
-[6. Grid](https://uilight.netlify.app/documentation/docs#Grid)
+[6. Grid](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Grid)
 
-[7. Image](https://uilight.netlify.app/documentation/docs#Image)
+[7. Image](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Image)
 
-[8. Input](https://uilight.netlify.app/documentation/docs#Input)
+[8. Input](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Input)
 
-[9. List](https://uilight.netlify.app/documentation/docs#List)
+[9. List](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#List)
 
-[10. Modal](https://uilight.netlify.app/documentation/docs#Modal)
+[10. Modal](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Modal)
 
-[11. Navigation](https://uilight.netlify.app/documentation/docs#Navigation)
+[11. Navigation](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Navigation)
 
-[12. Rating](https://uilight.netlify.app/documentation/docs#Rating)
+[12. Rating](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Rating)
 
-[13. Text](https://uilight.netlify.app/documentation/docs#Text)
+[13. Text](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Text)
 
-[14. Toast](https://uilight.netlify.app/documentation/docs#Toast)
-
-
-
+[14. Toast](https://development.d34cbh1venr26m.amplifyapp.com/documentation/docs#Toast)
 
 ## Tech Stack
 
 **HTML** **CSS**
 
-
 ## Author
 
-- [@prakashsakari](https://www.github.com/prakashsakari)
+- [@vaibhavIndure](https://github.com/vaibhavindure188)
 
-## Screenshot
-![component library ss](https://user-images.githubusercontent.com/80476561/153918981-bcfa31c1-d0ec-4a51-91b0-c1eafbf9ce5b.png)
-
-## Demo
-![component lib](https://user-images.githubusercontent.com/80476561/154856401-91629d23-fde3-4240-9da7-7eec28df2bc7.gif)
-
-
-
-Made with ❤️ by Prakash Sakari
-
+Made by Vaibhav Indure
